@@ -1,0 +1,19 @@
+[project]
+name = "APIforDSB"
+version = "0.0.14"
+authors = [
+  { name="LennyMaxMine", email="lenny@lenny.tf" },
+]
+description = "API fuer die DSBMobile Vertretungsplan-App"
+readme = "README.md"
+requires-python = ">=3.9"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+license = "GNU General Public License v3 (GPLv3)"
+license-files = ["LICEN[CS]E*"]
+
+[project.urls]
+Homepage = "https://github.com/LennyMaxMine/DSBApi"
+Issues = "https://github.com/LennyMaxMine/DSBApi/issues"
