@@ -3,4 +3,4 @@ beautifulsoup4
 datetime
 pytesseract
 requests
-PIL
+Pillow

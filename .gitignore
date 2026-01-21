@@ -3,3 +3,6 @@
 .pydevproject
 .settings/**
 testing/
+.venv/
+_pycache_/
+*.pyc

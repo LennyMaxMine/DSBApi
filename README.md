@@ -3,6 +3,9 @@
 
 ## Wird aktuell überarbeitet - Release in den nächsten Tagen
 
+Pypi: APIforDSB
+
+## ⚠️ Alles unter diesm Punkt ist veraltet.
 ### ⚠️ Unzuverlässig. Es scheinen Bugs vermehrt aufzutreten. Maintainer gesucht ([#24](https://github.com/nerrixDE/DSBApi/issues/24))
 > Eine API für die DSBMobile Vertretungsplan-Lösung, welche viele Schulen benutzen.
 
