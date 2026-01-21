@@ -6,12 +6,12 @@ with open("README.md", "r") as fh:
 setuptools.setup(
     name="APIforDSB",
     version="0.0.14",
-    author="nerrixDE",
-    author_email="nerrixde@mailfence.com",
+    author="LennyMaxMine",
+    author_email="lenny@lenny.tf",
     description="API fuer die DSBMobile Vertretungsplan-App",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/nerrixDE/DSBApi",
+    url="https://github.com/LennyMaxMine/DSBApi",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
