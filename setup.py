@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="dsbapipy",
+    name="APIforDSB",
     version="0.0.14",
     author="nerrixDE",
     author_email="nerrixde@mailfence.com",
